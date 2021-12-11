@@ -1,0 +1,66 @@
+body {
+  background-color: rgba(5, 120, 251, 0.774);
+  color: white;
+}
+p {
+  font-size: 40px;
+  font-family: "Lobster", cursive;
+  text-shadow: 2px 2px 5px white;
+}
+h1 {
+  font-size: 60px;
+  font-family: "Lobster", cursive;
+}
+ol {
+  font-size: 30px;
+  font-family: "Lobster", cursive;
+}
+table,
+tr,
+th,
+td {
+  border: 5px solid white;
+}
+#appmicro {
+  font-size: larger;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  font-size: 40px;
+}
+.topnav-centered a {
+  float: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+table {
+  font-size: 40px;
+  color: #111;
+  background-color: green;
+}
+
+#link {
+  font-size: 50px;
+}
